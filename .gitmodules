@@ -1,0 +1,3 @@
+[submodule "libsdl/SDL.hg"]
+	path = libsdl/SDL.hg
+	url = hg::https://hg.libsdl.org/SDL
